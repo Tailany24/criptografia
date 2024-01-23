@@ -6,5 +6,5 @@ mensagens, assim protejendo as informações dos clientes.
 ## 🚀 Tecnologias
 `CSS` `JavaScript` `HTML`
 
-## 🎉  Avaliador
+## ✅ Avaliador
 #challengeonedecodificador5
