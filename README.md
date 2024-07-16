@@ -9,6 +9,3 @@ mensagens, assim protejendo as informações dos clientes.
 ## ✅ Avaliador
 #challengeonedecodificador5
 
-## 🎉 Certificação 
-
-<img src="https://github.com/Tailany24/criptografia/assets/139998931/506c1cab-74af-46ad-9e5c-f377b40b8cd9" width="600" height="450">
